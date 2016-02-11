@@ -1,0 +1,35 @@
+_repo: Dalziels-Illustrated-Goldsmith_49325
+contributor:
+  commentator:
+    agent_name: Dulcken, H. W. (Henry William)
+    alias: Dulcken, Henry William
+    birthdate: 1832
+    deathdate: 1894
+    gutenberg_agent_id: '4538'
+    url: http://www.gutenberg.org/2009/agents/4538
+  illustrators:
+  - agent_name: Pinwell, G. J.
+    gutenberg_agent_id: '45262'
+    url: http://www.gutenberg.org/2009/agents/45262
+  - agent_name: Dalziel, The Brothers
+    gutenberg_agent_id: '45014'
+    url: http://www.gutenberg.org/2009/agents/45014
+creator:
+  author:
+    agent_name: Goldsmith, Oliver
+    alias: Goldsmit, Oliver
+    deathdate: 1774
+    gutenberg_agent_id: '211'
+    url: http://www.gutenberg.org/2009/agents/211
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Goldsmith
+description: ''
+gutenberg_issued: '2015-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49325'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Dalziels' Illustrated Goldsmith
+url: http://www.gutenberg.org/ebooks/49325
