@@ -1,4 +1,5 @@
 _repo: Dalziels-Illustrated-Goldsmith_49325
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Dulcken, H. W. (Henry William)
@@ -14,6 +15,9 @@ contributor:
   - agent_name: Dalziel, The Brothers
     gutenberg_agent_id: '45014'
     url: http://www.gutenberg.org/2009/agents/45014
+covers:
+- cover_type: archival
+  image_path: 49325-h/images/cover.jpg
 creator:
   author:
     agent_name: Goldsmith, Oliver
@@ -23,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/211
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Goldsmith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49325#Dalziels-Illustrated-Goldsmith
 gutenberg_issued: '2015-06-29'
 gutenberg_type: Text
 identifiers:
